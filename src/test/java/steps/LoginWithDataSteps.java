@@ -29,6 +29,6 @@ public void user_click_on_login_button_wit_slot(Integer int1, Double double1) {
 }
 @Then("user logged in validated")
 public void user_logged_in_validated() {
-   System.out.println("user logged in validated successfullly!!!!!!!!");
+   System.out.println("user logged in validated successfullly!!!!!!!!gdhkhkhkjhj");
 }
 }
