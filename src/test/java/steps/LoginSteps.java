@@ -29,6 +29,10 @@ public class LoginSteps {
 @Then("i should be able to login")
 public void i_should_be_able_to_login() {
 System.out.println("user validated successfully");
+
+
+
+System.out.println("user validated successfully...............wow.............nice");
 }
 
 
