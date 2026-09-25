@@ -36,7 +36,7 @@ public void user_should_able_to_see_past_order_details() {
 public void user_clicks_on_cancelled_button() {
   
 }
-@Then("user should able to cancelled order info")
+@Then("user should able to cancelled order info fdfkukydrylfhgyiurhttgugdku")
 public void user_should_able_to_cancelled_order_info() {
     
 }}
