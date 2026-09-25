@@ -18,3 +18,4 @@ Scenario:delete campaign
 When user click on delete button
 Then campaign should get deleted
 
+

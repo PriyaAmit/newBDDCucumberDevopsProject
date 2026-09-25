@@ -68,6 +68,10 @@ public class ProfileSteps {
 	public void validateDelete()
 	{
 		System.out.println("Deletion validated");
+
+
+
+System.out.println("devops latest created");
 	}
 
 }
